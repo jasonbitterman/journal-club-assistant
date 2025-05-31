@@ -7,8 +7,11 @@ from io import BytesIO
 from openai import OpenAI
 import argparse
 from urllib.parse import urlparse
+from dotenv import load_dotenv
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+load_dotenv()
+
+client = OpenAI()
 
 nooptions = 0
 
