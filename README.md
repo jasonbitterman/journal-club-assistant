@@ -1,6 +1,6 @@
 
 # Journal Club Assistant 
-> Your AI-powered companion for efficient medical research paper analysis
+Your AI-powered companion for efficient medical research paper analysis
 
 ## Overview
 
