@@ -16,7 +16,10 @@ client = OpenAI()
 nooptions = 0
 
 customized_instructions_items = {
-    "studyaim": {
+    "studytitle": {
+        "description": "Extract the exact title of the paper.",
+        "heading": "Title of Study",
+    },"studyaim": {
         "description": "Extract the aim of the study from the paper.",
         "heading": "Aim of Study",
     },

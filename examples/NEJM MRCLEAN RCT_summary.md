@@ -1,90 +1,55 @@
+## Title of Study
+A Randomized Trial of Intraarterial Treatment for Acute Ischemic Stroke.
+
 ## Aim of Study
-
-The aim of the study was to assess whether intraarterial treatment plus usual care is more effective than usual care alone in patients with a proximal arterial occlusion in the anterior cerebral circulation that could be treated intraarterially within 6 hours after symptom onset.
-
----
+To assess whether intraarterial treatment plus usual care is more effective than usual care alone in patients with a proximal arterial occlusion in the anterior cerebral circulation that could be treated intraarterially within 6 hours after symptom onset.
 
 ## Study Design
-
-This was a pragmatic, phase 3, multicenter clinical trial with randomized treatment-group assignments, open-label treatment, and blinded end-point evaluation (PROBE design). The trial compared intraarterial treatment (thrombolysis, mechanical treatment, or both) plus usual care (which could include intravenous alteplase) with usual care alone in patients with acute ischemic stroke and a proximal intracranial arterial occlusion of the anterior circulation confirmed on vessel imaging.
-
----
+Pragmatic, phase 3, multicenter randomized clinical trial with open-label treatment, involving randomized treatment-group assignments and blinded end-point evaluation.
 
 ## Intervention
-
-The intervention was intraarterial treatment, which included arterial catheterization with a microcatheter to the site of occlusion and delivery of a thrombolytic agent (alteplase or urokinase), mechanical thrombectomy, or both. The method of intraarterial treatment was left to the discretion of the interventionist, but only devices approved by the FDA or CE and the study steering committee could be used. All patients also received usual care, which could include intravenous alteplase. The control group received usual care alone.
-
----
+Intraarterial treatment (intraarterial thrombolysis, mechanical thrombectomy, or both) in addition to usual care (which could include intravenous alteplase), compared with usual care alone (control). Method of intraarterial treatment (e.g., thrombolytic agent, mechanical thrombectomy technique) was at the discretion of the interventionist.
 
 ## Number of Subjects
-
-A total of 500 patients were enrolled and underwent intention-to-treat analysis: 233 were assigned to intraarterial treatment plus usual care, and 267 were assigned to usual care alone.
-
----
+- Intervention group: 233 subjects
+- Control group: 267 subjects
+Total: 500 subjects.
 
 ## Inclusion and Exclusion Criteria
-
-**Inclusion criteria:**
-- Age 18 years or older (no upper limit)
-- Acute ischemic stroke due to an intracranial occlusion in the anterior circulation
-- Treatment possible within 6 hours of symptom onset
-- Occlusion in the distal intracranial carotid artery, M1 or M2 segment of the middle cerebral artery, or A1 or A2 segment of the anterior cerebral artery, established by CT angiography, MR angiography, or digital-subtraction angiography
-- NIHSS score of 2 or higher
-
-**Exclusion criteria:**
-- Not detailed exhaustively in the main text; the reference is made to the published study protocol for full exclusion criteria. Inclusion of patients with an additional extracranial internal-carotid-artery occlusion or dissection was at the investigator’s discretion.
-
----
+- Inclusion: Patients 18 years or older (no upper age limit) with acute ischemic stroke caused by an intracranial occlusion in the anterior circulation artery (distal intracranial carotid artery, M1 or M2 of the middle cerebral artery, or A1 or A2 of the anterior cerebral artery), confirmed by CT angiography, MRA, or DSA; National Institutes of Health Stroke Scale (NIHSS) score of 2 or higher; possible to initiate intraarterial treatment within 6 hours of symptom onset. Inclusion of patients with additional extracranial internal-carotid-artery occlusion or dissection was at the physician's discretion.
+- Exclusion: The full detailed criteria are referenced to the full protocol but are not exhaustively listed in the manuscript.
 
 ## Primary Outcome
-
-The primary outcome measure was the score on the modified Rankin scale (mRS) at 90 days, which measures functional outcome on a 7-point scale (0 = no symptoms, 6 = death). A score of 2 or less indicates functional independence. The primary analysis examined the shift across the entire range of mRS scores using ordinal logistic regression.
-
----
+The modified Rankin scale (mRS) score at 90 days, a 7-point scale (0 = no symptoms, 6 = death); this is a categorical measure of functional outcome.
 
 ## Secondary Outcome
-
-Secondary outcomes included:
-- NIHSS score at 24 hours and at 5–7 days/discharge
-- Barthel Index at 90 days (activities of daily living)
-- EuroQol Group 5-Dimension Self-Report Questionnaire (EQ-5D) at 90 days (health-related quality of life)
-- Prespecified dichotomizations of mRS (e.g., 0–1 vs. 2–6, 0–2 vs. 3–6, 0–3 vs. 4–6)
-- Imaging outcomes: arterial recanalization at 24 hours (CTA/MRA), final infarct volume at 5–7 days
-- Safety outcomes: hemorrhagic complications, new ischemic stroke in a different territory, death.
-
----
+- NIHSS score at 24 hours and at 5 to 7 days (or discharge if earlier)
+- Barthel Index (activities of daily living) at 90 days
+- Health-related quality of life (EuroQoL Group 5-Dimension Self-Report Questionnaire, EQ-5D) at 90 days
+- Various dichotomizations of the mRS (e.g., 0–1 vs 2–6, 0–2 vs 3–6, 0–3 vs 4–6)
+- Imaging: arterial recanalization at 24 hours (via CTA), final infarct volume at 5-7 days (noncontrast CT).
 
 ## Statistical Methods
-
-- The primary outcome was analyzed using ordinal logistic regression to estimate the common odds ratio (shift analysis), adjusted for prespecified prognostic factors.
-- Binary outcomes were analyzed with logistic regression and are reported as adjusted and unadjusted odds ratios.
-- Continuous outcomes were compared using beta coefficients.
-- No multiple testing adjustments were made; all P values are two-sided.
-- Prespecified subgroup analyses were done for treatment effect modification.
-- Analyses were performed with Stata/SE, version 13.1.
-
----
+Primary outcome was assessed with ordinal logistic regression (common odds ratio), adjusted for prespecified prognostic factors (age, baseline NIHSS, time from stroke onset, previous stroke, atrial fibrillation, diabetes, and occlusion location). Dichotomous and continuous secondary outcomes were analyzed with logistic or linear regression, adjusted for the same covariates. Subgroup analyses and intention-to-treat were used.
 
 ## Baseline Characteristics
-
-Baseline characteristics (age, sex, NIHSS score, risk factors, prerandomization treatment, systolic blood pressure, time from symptom onset to randomization, and stroke location) were well balanced between groups. Median ages were 65.8 (intervention) vs. 65.7 (control) years; median NIHSS scores were 17 vs. 18; 87% (intervention) and 91% (control) received intravenous alteplase. Other variables, such as ASPECTS and occlusion sites, also showed no meaningful differences between groups.
-
----
+No clinically relevant differences in baseline characteristics between groups; factors such as age, sex, risk factors including prior stroke, atrial fibrillation, diabetes, and NIHSS scores were well balanced (e.g., median age: 65.8 vs 65.7; male sex: 57.9% vs 58.8%; median NIHSS: 17 vs 18).
 
 ## Primary Outcome Results
-
-The distribution of the modified Rankin scale scores at 90 days shifted significantly in favor of intraarterial treatment. The adjusted common odds ratio was 1.67 (95% CI, 1.21 to 2.30), indicating a higher likelihood of a better outcome with intraarterial treatment. The proportion of patients who achieved functional independence (mRS 0–2) was 32.6% in the intervention group versus 19.1% in the control group (absolute difference 13.5%, 95% CI 5.9–21.2%; adjusted odds ratio 2.16, 95% CI 1.39–3.38).
-
----
+- There was a significant shift in the mRS distribution in favor of the intervention: adjusted common odds ratio 1.67 (95% CI, 1.21–2.30).
+- Functional independence (mRS 0–2 at 90 days) was achieved in 32.6% of the intervention group vs 19.1% of controls (absolute difference 13.5 percentage points; adjusted odds ratio 2.16, 95% CI 1.39–3.38).
+- Median mRS was 3 (IQR 2–5) for intervention and 4 (IQR 3–5) for control.
 
 ## Secondary Outcome Results
-
-All prespecified clinical and imaging secondary outcomes favored the intervention. The median NIHSS at 5–7 days/discharge was 8 (intervention) vs. 14 (control), with an adjusted mean difference of –2.9 (95% CI, –4.3 to –1.5). Barthel Index of 19 or 20 at 90 days was achieved in 46% (intervention) vs. 29.8% (control). Absence of residual occlusion at 24 hours (CTA) was greater in the intervention group (75.4% vs. 32.9%; adjusted odds ratio 6.88, 95% CI 4.34–10.94). Median final infarct volume was also lower in the intervention group (49 ml vs. 79 ml, adjusted difference –19 ml, 95% CI –34 to –3). No difference was seen in mortality or symptomatic intracerebral hemorrhage. However, the intervention group had more new ischemic strokes in separate territories (5.6% vs. 0.4%). Procedure-related complications were rare but reported.
-
----
+- All secondary clinical and imaging outcomes favored intervention:
+  - More recanalization/absence of residual occlusion at 24h: 75.4% (intervention) vs 32.9% (control)
+  - Median NIHSS score at 5–7 days: 8 (IQR 2–17, intervention) vs 14 (IQR 7–18, control) — difference of 2.9 points (95% CI, 1.5–4.3) in favor of intervention
+  - Barthel Index 19–20 at 90 days: 46.0% (intervention) vs 29.8% (control)
+  - Median EQ-5D at 90 days: 0.69 (IQR 0.33–0.85, intervention) vs 0.66 (IQR 0.30–0.81, control)
+  - Infarct volume lower by 19 ml (95% CI, 3–34) in intervention group
+  - No significant difference in mortality or serious adverse event rate, but a higher rate of new ischemic stroke in a different territory in the intervention group (5.6% vs 0.4%).
 
 ## Analysis
+The MR CLEAN trial was meticulously designed with robust methods including stratified randomization, blinded outcome assessment, and prespecified analytic plans. Baseline characteristics were well balanced, and the use of intention-to-treat analysis adds credibility to the validity of results. The primary and secondary outcome measures are standard, meaningful scales in stroke, and the statistical approach was appropriate. High rates of IV alteplase pretreatment in both arms mirror real-world acute care in many settings.
 
-The MR CLEAN trial offers solid evidence of benefit for intraarterial therapy in acute ischemic stroke with proximal anterior circulation occlusion, especially in a real-world, pragmatic context. The use of blinded end-point assessment for the primary outcome reduces the risk of ascertainment bias, and both groups had balanced baseline characteristics, with most patients receiving intravenous alteplase prior to randomization. However, the study’s open-label treatment assignment could have influenced self-reported health outcomes, though the primary endpoint was centrally adjudicated and blinded.
-
-Nonetheless, the study does reveal potential issues. Not all patients assigned to the intervention arm received intraarterial therapy (about 16% did not receive it), and there was minor crossover, raising concerns regarding dilution of treatment effect and potential bias. The broad inclusion criteria enhance generalizability but result in a comparatively poor prognosis for the sample versus prior trials; this could exaggerate perceived relative benefit. The lack of a log for screened, non-enrolled patients limits our understanding of selection bias. Several relevant clinical endpoints—such as new ischemic events—favored the control arm, and the increase in secondary vascular events in the intervention group is clinically relevant even though the overall safety profile was acceptable. The statistical analyses were appropriate, but no corrections for multiple comparisons were made for secondary outcomes, risking spurious findings. Altogether, the study’s conclusions are justified for the specific setting (proximal anterior circulation occlusion, early treatment, and usual care background), but the results should be interpreted with caution regarding generalizability, potential harm, and true clinical magnitude of benefit outside of rigorous trial oversight.
+However, some issues may temper the external validity and interpretation of results. The inclusion/exclusion criteria, while generally broad, left significant physician discretion (e.g., for some extracranial carotid lesions), and detailed logs of screened/excluded patients were not maintained, which could bias the population studied. Nearly 8% of assigned patients in the intervention group did not undergo the intended procedure, and some crossover occurred. There was also a higher rate of new ischemic stroke in other vascular territories among the intervention group, complicating the safety profile. Though the functional improvement is statistically significant, the absolute difference in full independence (mRS 0-2) is modest, and some outcomes (such as quality of life or avoided disability) have confidence intervals that include clinically marginal values. Despite strong statistical findings, the actual clinical impact may be more nuanced for older and higher-risk stroke populations. Overall, while conclusions regarding efficacy and safety are largely supported by the data, some methodology and reporting limitations caution against broad generalization to all stroke patients or intervention techniques.

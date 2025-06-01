@@ -38,16 +38,18 @@ Users can also choose to have the assistant generate a focused analysis of the s
 - Clinical significance of reported results
 - Commentary on whether the authors' conclusions correlate with the methodology and results
 
+This analysis is not meant to replace your own critical assessment of the research paper, it should only used as a potential starting point. Users should also recognize the limitations of large lanugage models in generating analyses like this.
+
 ## How to Use Journal Club Assistant
 The tool runs directly off the command line. Enter the following in the command line: 
 
-`python filesearch_test_flags.py '<file_name>'`
+`python journal_club_assistant.py '<file_name>'`
 
 <file_name> refers to the path to the PDF file on your computer or can refer to the URL of a freely available PDF you want to summarize.
 
-If you want to exclude the program from performing the AI-Generated Analysis setion, enter the following instead:
+If you want to exclude the program from performing the AI-Generated Analysis section, enter the following instead:
 
-`python filesearch_test_flags.py --hide-analysis '<file_name>'`
+`python journal_club_assistant.py --hide-analysis '<file_name>'`
 
 In this situation, the program will only generate the Summary information from the paper (e.g. study aim, intervention details, subjects, results, etc.).
 
