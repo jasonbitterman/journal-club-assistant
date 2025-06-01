@@ -1,6 +1,6 @@
 
 # Journal Club Assistant 
-Your AI-powered companion for efficient medical research paper analysis
+_Your AI-powered companion for efficient medical research paper analysis_
 
 ## Examples
 
@@ -39,7 +39,7 @@ Users can also choose to have the assistant generate a focused analysis of the s
 - Commentary on whether the authors' conclusions correlate with the methodology and results
 
 > [!WARNING]  
-> This analysis is not meant to replace your own critical assessment of the research paper. Users should recognize the limitations of large lanugage models in generating analyses like this.
+> This analysis is not meant to replace your own critical assessment of the research paper. Users should recognize the limitations of large language models in generating analyses like this.
 
 
 ## How to Use Journal Club Assistant
