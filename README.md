@@ -2,6 +2,14 @@
 # Journal Club Assistant 
 Your AI-powered companion for efficient medical research paper analysis
 
+## Examples
+
+| Original Article | AI Generated Summary & Analysis |
+| ------ | ----- |
+| [DASH Diet NEJM Article](https://www.nejm.org/doi/full/10.1056/NEJM199704173361601) | [Check it out here](examples/NEJM%20DASH_summary.md) |
+| [MRCLEAN RCT NEJM Article](https://www.nejm.org/doi/full/10.1056/NEJMoa1411587) | [Check it out here](examples/NEJM%20MRCLEAN%20RCT_summary.md) |
+
+
 ## Overview
 
 Journal Club Assistant streamlines the process of analyzing medical research papers by automatically extracting and organizing key information. 
@@ -43,8 +51,4 @@ If you want to exclude the program from performing the AI-Generated Analysis set
 
 In this situation, the program will only generate the Summary information from the paper (e.g. study aim, intervention details, subjects, results, etc.).
 
-## Examples
-Journal Club Assistant was asked to create a summary of a PDF of this classic New England Journal of Medicine article on the DASH diet: https://www.nejm.org/doi/full/10.1056/NEJM199704173361601. The generated file is available at [examples/NEJM DASH_summary.md](examples/NEJM%20DASH_summary.md)
-
-Another example: Journal Club Assistant was provided a more recent NEJM article regarding intraarterial alteplase for acute ischemic stroke (https://www.nejm.org/doi/full/10.1056/NEJMoa1411587). The generated file is available at [examples/NEJM MRCLEAN RCT_summary.md](examples/NEJM%20MRCLEAN%20RCT_summary.md)
 
