@@ -16,10 +16,7 @@ client = OpenAI()
 nooptions = 0
 
 customized_instructions_items = {
-    "studytitle": {
-        "description": "Extract the exact title of the paper.",
-        "heading": "Title of Study",
-    },"studyaim": {
+    "studyaim": {
         "description": "Extract the aim of the study from the paper.",
         "heading": "Aim of Study",
     },
@@ -109,7 +106,7 @@ def create_custom_input_prompt(options):
         )
 
     return (
-        "Extract the following information from this paper (delineate each section with it own line):\n"
+        "Extract the specific title of the paper, precede the title with ##. Then, extract the following information from this paper (delineate each section with its own line):\n"
         + customized_instructions_text
     )
 

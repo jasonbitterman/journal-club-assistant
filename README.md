@@ -41,13 +41,20 @@ Users can also choose to have the assistant generate a focused analysis of the s
 This analysis is not meant to replace your own critical assessment of the research paper, it should only used as a potential starting point. Users should also recognize the limitations of large lanugage models in generating analyses like this.
 
 ## How to Use Journal Club Assistant
-The tool runs directly off the command line. Enter the following in the command line: 
+
+Prior to running the program, you will need to:
+1. Install the dependencies: `pip install -r requirements.txt`
+2. Create a .env file, and add your openai key: `OPENAI_API_KEY= <your OpenAI key>`
+
+In the command line, run: 
 
 `python journal_club_assistant.py '<file_name>'`
 
 <file_name> refers to the path to the PDF file on your computer or can refer to the URL of a freely available PDF you want to summarize.
 
-If you want to exclude the program from performing the AI-Generated Analysis section, enter the following instead:
+### Options
+
+If you want to exclude the program from creating the Analysis section, enter the following instead:
 
 `python journal_club_assistant.py --hide-analysis '<file_name>'`
 
