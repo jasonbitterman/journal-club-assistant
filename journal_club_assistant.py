@@ -106,7 +106,7 @@ def create_custom_input_prompt(options):
         )
 
     return (
-        "Extract the specific title of the paper, precede the title with ##. Then, extract the following information from this paper (delineate each section with its own line):\n"
+        "Extract the specific title of the paper, precede the title with ##. Then, extract the following information from this paper (insert a new line between each section):\n"
         + customized_instructions_text
     )
 

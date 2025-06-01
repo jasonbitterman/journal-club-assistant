@@ -1,5 +1,5 @@
 
-# 📚 Journal Club Assistant 
+# ⚕️📚 Journal Club Assistant 
 _Your AI-powered companion for efficient medical research paper analysis_
 
 ## Examples
