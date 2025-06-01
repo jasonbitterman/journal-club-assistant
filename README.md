@@ -38,7 +38,9 @@ Users can also choose to have the assistant generate a focused analysis of the s
 - Clinical significance of reported results
 - Commentary on whether the authors' conclusions correlate with the methodology and results
 
-This analysis is not meant to replace your own critical assessment of the research paper, it should only be used as a potential starting point for analyzing papers. Users should also recognize the limitations of large lanugage models in generating analyses like this.
+> [!WARNING]  
+> This analysis is not meant to replace your own critical assessment of the research paper. Users should recognize the limitations of large lanugage models in generating analyses like this.
+
 
 ## How to Use Journal Club Assistant
 
