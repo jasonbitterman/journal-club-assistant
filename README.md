@@ -27,8 +27,8 @@ The assistant generates clear and concise markdown summaries of research papers 
 - Inclusion/exclusion criteria
 - Primary and secondary outcome measures
 - Statistical methodology
-- Baseline characteristics
-- Detailed results analysis
+- Baseline characteristics of subjects
+- Primary and secondary outcome measure results
 
 ### AI-Generated Analysis
 Users can also choose to have the assistant generate a focused analysis of the submitted research paper. This analysis includes assessment of:
