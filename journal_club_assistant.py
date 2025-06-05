@@ -74,11 +74,11 @@ def create_file(client, file_path):
         file_content = BytesIO(response.content)
         file_name = file_path.split("/")[-1]
         file_tuple = (file_name, file_content)
-        result = client.files.create(file=file_tuple, purpose="user_data")
+        result = client.files.create(file=file_tuple, purpose="assistants")
     else:
         # Handle local file path
         with open(file_path, "rb") as file_content:
-            result = client.files.create(file=file_content, purpose="user_data")
+            result = client.files.create(file=file_content, purpose="assistants")
     print(f"File uploaded with ID: {result.id}")
     return result.id
 
